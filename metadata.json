@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — Digital Product & WebGL Studio",
+  "description": "We build digital experiences that move. NOVA is an independent digital product and creative development studio engineering WebGL experiences, premium websites, and digital products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
